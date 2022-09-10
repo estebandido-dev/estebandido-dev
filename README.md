@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esteban Lopez Elizarraraz</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate web developer from Mexico</h3>
 
 - 🌱 I’m currently learning **English**
 
